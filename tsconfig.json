@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        // "@themeConfig": ["src/libs/themeConfig.js"],
+        // "@core/*": ["src/@core/*"],
+        // "@validations": ["src/@core/utils/validations/validations.js"],
+        // "@axios/*": ["src/libs/axios/*"],
+        "@/*": ["./resources/ts/src/*"],
+        "~": ["/node_modules/"],
+      }
+    }
+  }
+
+
